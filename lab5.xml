@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="lab5.xsd"> 
+
+    <student>
+        <name>John Doe</name>
+        <address>123 Main St, Anytown, USA</address>
+        <phone>123-456-7890</phone>
+    </student>
+    <subject>
+        <BCA>Computer Applications</BCA>
+        <BIT>Information Technology</BIT>
+        <MIT>Management Information Technology</MIT>
+    </subject>
+
+</college>
